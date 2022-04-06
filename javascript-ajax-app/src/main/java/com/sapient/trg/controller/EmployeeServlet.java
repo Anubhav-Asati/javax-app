@@ -13,7 +13,7 @@ import com.sapient.trg.service.Employee;
 import com.sapient.trg.service.EmployeeManager;
 
 
-@WebServlet("/es")
+@WebServlet("/es1")
 public class EmployeeServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
